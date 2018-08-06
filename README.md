@@ -1,2 +1,2 @@
 # RemoteDroid
-Project to controil pc with android
+This is a project to control pc with Android application.
